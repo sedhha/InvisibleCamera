@@ -1,4 +1,4 @@
-# Talking InvisibleCamera
+# Talking Invisible Camera
 Talking Invisible Camera features to make a person invisible exactly where he/she uses a dark blue colored cloak or cloth to cover his/her body. The algorithm inspiration was taken from Harry Potter where he receives an invisible cloak to disappear himself. The camera calls out the name of the person to greet them and then follows the invisibility instructions. Kindly refer to the following tutorial to obtain the best results:
 1. Place your camera steady to obtain the best results. Don't shake or move it.
 2. Run the program test.py and don't move in front of camera until it speaks calibrated image is ready.
